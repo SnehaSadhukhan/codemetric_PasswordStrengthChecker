@@ -20,3 +20,15 @@ A Python tool that evaluates password strength and provides improvement suggesti
    ```bash
    git clone https://github.com/SnehaSadhukhan/codemetric_PasswordStrengthChecker.git
    python password_checker.py
+Example Usage
+🔐 Welcome to the Password Strength Checker
+
+Enter your password (or type 'exit' to quit): password123
+
+Moderate: Improve your password with the following suggestions:
+Include at least one uppercase letter.
+Include at least one special character.
+
+Enter your password (or type 'exit' to quit): Strong@Pass123
+
+Strong: Your password is secure!
